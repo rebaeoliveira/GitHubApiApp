@@ -1,17 +1,16 @@
 <h1 align="center">Programação Web II</h1>
-<h3 align="center">Trabalho: Consumir API Rest Publica Utilizando React e React-Native</h2>
+<h3 align="center">Trabalho: Consumir API Rest Pública utilizando React e React-Native</h2>
 
 ### Nome do projeto: GitHubApiAPP
 Projeto em React e React Native utilizando Expo que consome a API pública do GitHub. O aplicativo faz uma requisição à API do GitHub para obter informações sobre os usuários.
 
 ### Programas necessários:
 - Node.js;
-- Expo CLI;
-- Expo Go.
+- Expo.
 
 ### Instalação:
-- expo init GitHubApiApp: cria um novo projeto Expo;
-- cd GitHubApiApp: navega até a pasta;
+- git clone https://github.com/rebaeoliveira/GitHubApiApp/tree/main/GitHubApiApp: clona o repositório;
+- cd GitHubApiApp: navega até a pasta; 
 - npm install axios: instala o componente Axios para fazer requisições HTTP;
 - expo install react-native-paper: instala o pacote React-Native-Paper.
   
