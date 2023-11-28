@@ -10,7 +10,8 @@ Projeto em React e React Native utilizando Expo que consome a API pública do Gi
 
 ### Instalação:
 - git clone https://github.com/rebaeoliveira/GitHubApiApp/tree/main/GitHubApiApp: clona o repositório;
-- cd GitHubApiApp: navega até a pasta; 
+- cd GitHubApiApp: navega até a pasta;
+- npm install -g expo-cli: instala o componente Expo.
 - npm install axios: instala o componente Axios para fazer requisições HTTP;
 - expo install react-native-paper: instala o pacote React-Native-Paper.
   
